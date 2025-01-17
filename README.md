@@ -5,3 +5,5 @@ It uses WebView to display the webpages.
 Compatible with Android 5.0 and higher.
 
 You'll need to use Android Studio to use this project.
+
+just feel free to clone or modify.
